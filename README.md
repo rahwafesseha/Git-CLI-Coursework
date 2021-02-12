@@ -1,5 +1,11 @@
 # Git CLI Quiz
 
+Remember, you must submit this quiz using __ONLY__ Git on the Command Line. 
+
+You __CANNOT__ open Github Desktop.
+
+---
+
 1. What is a benefit of using the Git CLI rather than a GUI?
 
 <!-- Write your answer here -->
