@@ -14,7 +14,7 @@ You __CANNOT__ open Github Desktop.
 
 <!-- Write your answer here -->
 
-3. What does the -m in a Git command mean or do?
+3. What does the -m in a Git commit command mean or do?
 
 <!-- Write your answer here -->
 
